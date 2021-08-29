@@ -38,5 +38,5 @@ $pageType = 2;
 4. 访问你的新页面试试！
 
 5. 编辑check.php，将`https://example.blog/linksjson`修改为你的页面地址
-6. 
-7. 推荐使用CLI运行`check.php`，比如`php check.php`，然后它将会自动检查。结果只能做为参考，因为误判率很高
+
+6. 推荐使用CLI运行`check.php`，比如`php check.php`，然后它将会自动检查。结果只能做为参考，因为误判率很高
